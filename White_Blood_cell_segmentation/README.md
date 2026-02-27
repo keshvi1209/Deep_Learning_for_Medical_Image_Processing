@@ -2,7 +2,7 @@
 
 ## Dataset
 Kaggle Dataset:
-https://www.kaggle.com/datasets/jeetblahiri/bccd-dataset-with-mask
+https://www.kaggle.com/datasets/inhvnnhn/krd-wbc-dataset
 
 ## How to Run
 1. Open a colab/kaggle notebook
